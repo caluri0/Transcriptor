@@ -40,7 +40,7 @@ pip install -r requirements.txt
 # 2. (Optional) Install VAD + resampling for best quality
 pip install scipy webrtcvad
 
-# 3. Set your DeepL API key (optional - demo key included)
+# 3. Set your DeepL API key 
 # Windows PowerShell
 $env:DEEPL_API_KEY="your_key_here"
 
