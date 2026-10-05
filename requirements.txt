@@ -1,0 +1,8 @@
+sounddevice
+numpy
+faster-whisper
+torch
+deepl
+soundfile
+scipy
+webrtcvad
